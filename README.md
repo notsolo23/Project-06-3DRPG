@@ -1,8 +1,9 @@
-# Project-06
+# Exercise-06b-Animations
 
-# Features added
+# References
 
-# References to resources used in the project
+Textures from: https://freepbr.com/
+Models and animations from: Mixamo.com
 
-# Created by
-Nobel SOlomon
+# Created by 
+Nathan Mishler
